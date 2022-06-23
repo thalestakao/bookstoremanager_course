@@ -16,6 +16,8 @@
 	<description>Bookstore Manager Project</description>
 	<properties>
 		<java.version>14</java.version>
+		<sonar.organization>thalestakao</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 	<dependencies>
 		<dependency>
